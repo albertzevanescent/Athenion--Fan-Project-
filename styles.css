@@ -1,0 +1,61 @@
+@font-face {
+    font-family: "Maitree";
+    src: url("Fonts/Maitree-Regular.ttf");
+}
+body
+{
+    margin: 0;
+}
+.bg
+{
+    background-image: url("Images/BG_Login.png");
+    height: 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    overflow: auto;
+    text-align: center;
+}
+.logo
+{
+    width: 25%;
+    margin: 10px;
+}
+.intro
+{
+    font-family: "Maitree";
+    color: white;
+    white-space: pre-line;
+    padding: 10px;
+    margin: 10px;
+}
+a:link
+{
+    color: lightblue;
+}
+.demo_frame
+{
+    margin: auto;
+    width: 50%;
+    padding: 10px;
+    overflow: hidden;
+}
+.demo_video
+{
+    width: 100%;
+}
+.download_btn
+{
+    background-color: lightblue;
+    border: none;
+    color: black;
+    padding: 12px 30px;
+    margin: 10px;
+    cursor: pointer;
+    font-size: 20px;
+}
+.download_btn:disabled
+{
+    background-color: grey;
+    opacity: 0.25;
+}
