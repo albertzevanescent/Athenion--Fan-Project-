@@ -1,0 +1,16 @@
+New:
+	3 cards (Neutral Star Medal)
+	Animated heroes + voices
+	Avatars, titles, cardbacks, huds
+	Emotes
+
+Bug Fixes:
+	"Soul Catcher" breaking when played
+	"Neos Flaming Knee" with no enemies
+	Trying to target when there's only untargetable minions
+	"Pomola Flame Summoner" breaking after ability
+	"War Horn Singer" breaking when there's no damaged allies
+	"Yda Forest Wizard" triggering off enemy locks
+	"Doppelganger Noel" breaking when banishing itself
+	Move and Taunt interaction
+	"Ice Blowfish" triggering only once
