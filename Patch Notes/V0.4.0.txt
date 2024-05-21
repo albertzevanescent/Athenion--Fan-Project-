@@ -1,0 +1,8 @@
+New:
+	3 cards (Neutral Star Medal)
+	Tutorial
+	Modding
+
+Bug Fixes:
+	"Soul Booster" breaking when played
+	"Zandora" not triggering after "Void Of Dark Matter"
